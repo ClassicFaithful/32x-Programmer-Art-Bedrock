@@ -1,3 +1,5 @@
+# Note: This project is experimental and likely broken. Use at your own risk!
+
 # Classic Faithful 32x PA (Programmer Art) - Bedrock
 A double resolution texture pack that continues Vattic’s original Faithful 32x32 pack with the classic textures, now on Bedrock Edition.
 
