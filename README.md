@@ -1,14 +1,15 @@
-# Note: This project is experimental and likely broken. Use at your own risk!
+<img src="https://github.com/Faithful-Resource-Pack/Branding/blob/main/logos/transparent/512/cf32pa_logo.png?raw=true" alt="Classic Faithful 32x PA" align="right" height="256px">
+<div align="center">
+  <h1>Classic Faithful 32x PA</h1>
+  <h3>A double resolution texture pack that continues Vattic’s original Faithful 32x32 pack with the classic textures.</h3>
+  <h5><i>Official Bedrock Edition repository</i></h5>
 
-# Classic Faithful 32x PA (Programmer Art) - Bedrock
-A double resolution texture pack that continues Vattic’s original Faithful 32x32 pack with the classic textures, now on Bedrock Edition.
+![RepoSize](https://img.shields.io/github/repo-size/ClassicFaithful/32x-Programmer-Art-Bedrock)
+![Issues](https://img.shields.io/github/issues/ClassicFaithful/32x-Programmer-Art-Bedrock)
+![PullRequests](https://img.shields.io/github/issues-pr/ClassicFaithful/32x-Programmer-Art-Bedrock)
+</div>
 
-<img src="https://raw.githubusercontent.com/Faithful-Resource-Pack/Branding/main/social%20media/banners/github/cf32pa_banner.png" align="center" height="384px">
+---
 
-# How to Download .zip File
-
-<img src="https://user-images.githubusercontent.com/75297863/163903656-b32b9686-c147-469b-bb3f-808ab6d6bc36.png" align="center" height="384px">
-
-## If the .zip file does not show up when put in your resource pack folder:
-
-Unzip the file using any program like Winrar, 7zip, or Archive Utility. Sometimes GitHub has a bug where the folder that is created when decompressed has a second folder within it, breaking the structure. To solve this, simply drag the second folder inside the decompressed one into your resourcepacks folder. Sorry for the inconvenience.
+## How to download:
+All Java and Bedrock Edition versions can be downloaded on [our website](https://faithfulpack.net/classicfaithful/32x-programmer-art).
